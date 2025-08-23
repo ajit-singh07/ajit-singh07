@@ -10,6 +10,7 @@ I'm an aspiring developer working to build a strong foundation in:
 - **Data Structures & Algorithms**  
 - **Web Development**
 - **AI**
+- **Game Development**
 
 I'm learning through **online courses**, **hands-on projects**, and **daily practice**, focusing on **problem-solving** and consistent growth.
 
@@ -31,20 +32,6 @@ I'm learning through **online courses**, **hands-on projects**, and **daily prac
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat&logo=visual-studio-code)
 
 ---
-<!--
-### 🚀 Project Highlight  
-- **[Cybersecurity Awareness Site](#)**  
-  A basic awareness website focused on online safety and digital best practices.
-
----
-
-### 📈 GitHub Stats  
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=PrabhnoorSingh-IITM&show_icons=true&hide_title=true&count_private=true&theme=radical" height="150"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=PrabhnoorSingh-IITM&theme=radical&hide_border=true" height="150"/>
-</p>
-
---->
 
 <p align="center"><i>"Curiosity + Consistency = Progress"</i></p>
 <!--
